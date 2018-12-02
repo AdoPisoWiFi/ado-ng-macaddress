@@ -1,0 +1,24 @@
+{
+  "name": "@adopisowifi/ng-macaddress-filter",
+  "version": "0.1.0",
+  "description": "asdfasf",
+  "main": "ado-ng-macaddress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdoPisoWiFi/ado-ng-macaddress-filter.git"
+  },
+  "keywords": [
+    "mac",
+    "filter",
+    "address"
+  ],
+  "author": "Adones Pitogo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdoPisoWiFi/ado-ng-macaddress-filter/issues"
+  },
+  "homepage": "https://github.com/AdoPisoWiFi/ado-ng-macaddress-filter#readme"
+}

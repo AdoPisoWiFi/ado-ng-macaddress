@@ -1,0 +1,22 @@
+{
+  "name": "ado-ng-macaddress-filter",
+  "main": "ado-ng-macaddress.js",
+  "homepage": "https://github.com/AdoPisoWiFi/ado-ng-macaddress-filter",
+  "authors": [
+    "Adones Pitogo <pitogo.adones@gmail.com>"
+  ],
+  "description": "Angular 1.x module for showing human-readable mac address",
+  "keywords": [
+    "mac",
+    "address",
+    "filter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
