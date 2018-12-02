@@ -7,7 +7,7 @@
   App.filter('macaddress', function() {
     return function(mac) {
       try {
-        return mac.match(/.{1,2}/g).map(function(c) {
+        return mac.replace(/(:|\-)/g, '').match(/.{1,2}/g).map(function(c) {
           return c.toUpperCase();
         }).join('-');
       } catch(e) {
