@@ -9,7 +9,7 @@
       try {
         return mac.replace(/(:|\-)/g, '').match(/.{1,2}/g).map(function(c) {
           return c.toUpperCase();
-        }).join('-');
+        }).join(':');
       } catch(e) {
         return mac;
       }
